@@ -1,0 +1,13 @@
+name = "Test 2 Pack"
+author = "Freddie_06"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "20fc4f30069805c8fdb79a877014e25a09d8e568449d3214a81cc181dadca568"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.234"
