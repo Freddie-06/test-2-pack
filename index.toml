@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "b2ff3b8b89e5d17c61f3a02071b23feb06e9a8b2d6951626c8ad84fa80f72615"
-
-[[files]]
 file = "mods/jei.pw.toml"
 hash = "e7b3c08c8b168d15e3997d41d0480d1d35cba0bdda94094f123d1eef65d0b0c4"
 metafile = true
