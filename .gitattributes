@@ -1,5 +1,6 @@
-# Disable Git line ending conversion, to prevent packwiz index hashes changing when committing from Windows
-# * -text
+# Method I used to use
+# *.toml text eol=lf
 
-# Testing with the file that worked before
-*.toml text eol=lf
+# Method found in the Packwiz template repository
+# Disable Git line ending conversion, to prevent packwiz index hashes changing when committing from Windows
+* -text
