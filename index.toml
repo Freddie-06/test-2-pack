@@ -61,6 +61,11 @@ hash = "51e129832b04acd57da470fc41725bad5e101b6a6b1d4901fd8ea7a92b14e13d"
 metafile = true
 
 [[files]]
+file = "mods/matthiesen-lib-api.pw.toml"
+hash = "c19554eae66689c631a77db2b0fa6b0404adc9d8f51ed730ba553ec76b93e088"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "6d3ff3b7bbcc97fa06bdddcf2b3b7646168497ba6d7104bdea376f1bc65f9a93"
 metafile = true
@@ -73,6 +78,11 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "5da18814472be5dc93a21886983646da3a7236413800075ac75229be82d114fa"
+metafile = true
+
+[[files]]
+file = "mods/packwiz-ard.pw.toml"
+hash = "6a09b973273bb1b137265a1a6f258252485d0b697b49c8b1b7d5e553335c63d1"
 metafile = true
 
 [[files]]
